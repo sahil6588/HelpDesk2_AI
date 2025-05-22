@@ -1,0 +1,7 @@
+streamlit>=1.0
+requests>=2.25
+gTTS>=2.2
+psutil>=5.8
+langdetect>=1.0
+googletrans==4.0.0-rc1
+cohere>=0.10
