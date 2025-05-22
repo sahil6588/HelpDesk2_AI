@@ -1,16 +1,11 @@
 # HelpDesk2_AI
 After weeks of building and refining, I’m excited to share a quick glimpse of Helpdesk AI, my personal voice assistant project powered by: ✅ Streamlit – for a clean, interactive chat-style UI ✅ Cohere API – for human-like responses and Q&amp;A 
 # 🎙️ Helpdesk AI – Voice Assistant (Streamlit + Cohere)
-
 Helpdesk AI is a smart and simple voice assistant built using **Python**, **Streamlit**, **Cohere API**, and **OpenWeather API**. It can chat, answer your questions, open/close apps, report weather, and more — all through **voice or text** commands, in a colorful chat-style web interface.
-
----
 
 ## 🚀 Project Overview
 
 Helpdesk AI acts like a personal assistant you can talk to. It's built for desktops and runs in a browser using Streamlit. You can **speak or type** your commands, and it responds using **text and voice**. It understands natural language (powered by Cohere) and can perform real actions on your computer.
-
----
 
 ## ✨ Features
 
@@ -33,62 +28,38 @@ Helpdesk AI acts like a personal assistant you can talk to. It's built for deskt
    git clone https://github.com/your-username/helpdesk-ai.git
    cd helpdesk-ai
 Install dependencies:
-
 bash
 Copy
 Edit
 pip install -r requirements.txt
 Set API keys in code (already added):
-
 Cohere API Key
-
 OpenWeather API Key
-
 Run the app:
-
 bash
 Copy
 Edit
 streamlit run app.py
-🧠 Usage
+### 🧠 Usage
 Speak or type in the input box.
-
 Try commands like:
-
 "weather in Delhi"
-
 "open YouTube" / "close Notepad"
-
 "what is AI?"
-
 Enable "Speak Responses" in the sidebar to hear voice replies.
-
 Press "Speak Now" in the sidebar to use your microphone.
 
-✅ Result
+### ✅ Result
 The assistant listens or reads your query.
-
 It processes the command using Cohere, OpenWeather, or local system commands.
-
 It responds in the chat and optionally speaks out loud.
-
 Chat history is displayed in a clean, modern layout.
 
-🧾 Conclusion
+### 🧾 Conclusion
 Helpdesk AI is a powerful yet lightweight desktop voice assistant. It uses the latest AI and voice tools to make your system interactive and user-friendly. You can expand it by adding more app controls, custom memory, or task integrations.
-
 Built with ❤️ using Streamlit, Cohere, OpenWeather, gTTS, and Python.
-
-
-
 📄 License
 This project is licensed under the MIT License.
-
-yaml
-Copy
-Edit
-
----
 
 ### ✅ What to do next:
 
